@@ -14,20 +14,20 @@ Penggunaan end pada python ini bertujuan untuk memberikan jarak atau parameter u
 
 Penggunaan end pada python ini sebagai pemisah string setiap variabel yang di kasih nilai
 
-![gambar1](Gambar/Foto3.PNG)
-![gambar1](Gambar/foto4.PNG)
+![gambar1](Gambar/Foto3.png)
+![gambar1](Gambar/Foto4.png)
 
 ###-String Format
 
 Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam string daripada coba menggabungkan nya string memakai koma atau string concatenation
 
-[gambar1](Gambar/Foto5.PNG)
-[gambar1](Gambar/Foto6.PNG)
+[gambar1](Gambar/Foto5.png)
+[gambar1](Gambar/Foto6.png)
 
 ###- Contoh string concatenation
 
-![gambar1](Gambar/Foto7.PNG)
-![gambar1](Gambar/Foto8.PNG)
+![gambar1](Gambar/Foto7.png)
+![gambar1](Gambar/Foto8.png)
 
 ###- Yang di atas adalah contoh formating string 
 
@@ -48,16 +48,16 @@ Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam stri
 - Setelah di input masukan variabel yang telah di inputkan 
 - Lalu saya akan menggabungkan Variabel a dengan b dengan menggunakan formatting string
 
-![gambar1](Gambar/Foto9.PNG)
-![gambar1](Gambar/Foto10.PNG)
+![gambar1](Gambar/Foto9.png)
+![gambar1](Gambar/Foto10.png)
 
 ###- Konversi nilai variabel
 
 - konversi yang saya masukan adalah nilai variabel yang masih kurang lebih sama yaitu 'String' pada 'Integer' 
 - Seusai itu kita harus menjumlahkan dan membagi dengan menggunakan seperti tadi yaitu menggunakan formatting string
 - 
-![gambar1](Gambar/Foto11.PNG)
-![gambar1](Gambar/Foto12.PNG)
+![gambar1](Gambar/Foto11.png)
+![gambar1](Gambar/Foto12.png)
 
 ###- Latihan 3 
 
