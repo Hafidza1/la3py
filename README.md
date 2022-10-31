@@ -14,23 +14,23 @@
 
 #### -penggunaan separator pada python berfungsi sebagai pemisah dari setiap variabel yang telah di beri nilai
 
-![gambar1](gambar/file2.png)
+![gambar1](Gambar/Foto2.png)
 
-![gambar1](gambar/file2(1).png)
+![gambar1](Gambar/Foto3.png)
 
 ### String Format
 
 #### -String Formatting memungkingkan kita untuk memberikan item kedalam string daripada kita mencoba menggabungkan string menggunakan koma atau striing concatenation
 
-![gambar1](gambar/file3.png)
+![gambar1](Gambar/Foto5.png)
 
-![gambar1](gambar/file3(1).png)
+![gambar1](Gambar/Foto4.png)
 
 #### -ini contoh string concatenation
 
-![gambar1](gambar/file4.png)
+![gambar1](Gambar/Foto6.png)
 
-![gambar1](gambar/file4(1).png)
+![gambar1](Gambar/Foto7.png)
 
 ## Latihan 2
 
@@ -42,7 +42,7 @@
 
 #### -Lalu gabungkan variabel a dan bdengan  Formatting String
 
-![gambar1](gambar/file5.png)
+![gambar1](Gambar/Foto9.png)
 
 ### Konversi nilai Variabel 
 
