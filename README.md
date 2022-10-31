@@ -1,136 +1,117 @@
-# PROSES / LANGKAH - LANGKAH PRAKTIKUM 3
+# Praktikum 3
 
 ## Latihan 1
 
-### - Penggunaan End 
+### Penggunaan End
 
-Penggunaan end pada python ini bertujuan untuk memberikan jarak atau parameter untuk yang kita buat 
+#### -Penggunaan end pada Python berfunngsi untuk memberi pemisah antara quotes yang kita buat
 
 ![gambar1](Gambar/Foto1.png)
-![gambar1](Gambar/Foto2.png)
 
+![gambar1](Gambar/gambar13.jpg)
 
-###- Penggunaan separator 
+### Penggunaan Separator
 
-Penggunaan end pada python ini sebagai pemisah string setiap variabel yang di kasih nilai
+#### -penggunaan separator pada python berfungsi sebagai pemisah dari setiap variabel yang telah di beri nilai
 
-![gambar1](Gambar/Foto3.png)
-![gambar1](Gambar/Foto4.png)
+![gambar1](gambar/file2.png)
 
-###-String Format
+![gambar1](gambar/file2(1).png)
 
-Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam string daripada coba menggabungkan nya string memakai koma atau string concatenation
+### String Format
 
-[gambar1](Gambar/Foto5.png)
-[gambar1](Gambar/Foto6.png)
+#### -String Formatting memungkingkan kita untuk memberikan item kedalam string daripada kita mencoba menggabungkan string menggunakan koma atau striing concatenation
 
-###- Contoh string concatenation
+![gambar1](gambar/file3.png)
 
-![gambar1](Gambar/Foto7.png)
-![gambar1](Gambar/Foto8.png)
+![gambar1](gambar/file3(1).png)
 
-###- Yang di atas adalah contoh formating string 
+#### -ini contoh string concatenation
 
-###- Ada tiga cara peformatan yaitu
+![gambar1](gambar/file4.png)
 
-- Metode lama menggunakan placeholder menggunakan karakter '%'(modulo)'
+![gambar1](gambar/file4(1).png)
 
-- Teknik yang menggunakan metode string.format()
+## Latihan 2
 
-- Metode terbaru,baru saja di terbitkan oleh python 3.6,Menggunakan string literal yang di format,disebut f-string
+#### -Tentukan dahulu variabel yang akan di gunakan, misalnya a dan b
 
-###- Latihan 2
+#### -Beri inputan pada variabel 
 
-- pilih variable yang kita mau saya akan menggunakan dua variabel a dan b
+#### -Setelah diberi input, ekdpresikan variabel yang telah diberi inputan 
 
-###- Beri inputkan pada variabel
+#### -Lalu gabungkan variabel a dan bdengan  Formatting String
 
-- Setelah di input masukan variabel yang telah di inputkan 
-- Lalu saya akan menggabungkan Variabel a dengan b dengan menggunakan formatting string
+![gambar1](gambar/file5.png)
 
-![gambar1](Gambar/Foto9.png)
-![gambar1](Gambar/Foto10.png)
+### Konversi nilai Variabel 
 
-###- Konversi nilai variabel
+#### -Konversi nilai variabel yang masih berbentuk 'string' pada 'integer'
 
-- konversi yang saya masukan adalah nilai variabel yang masih kurang lebih sama yaitu 'String' pada 'Integer' 
-- Seusai itu kita harus menjumlahkan dan membagi dengan menggunakan seperti tadi yaitu menggunakan formatting string
-- 
-![gambar1](Gambar/Foto11.png)
-![gambar1](Gambar/Foto12.png)
+### -Setelah itu menjumlahkan dan membagi dengan ekspresikan dalam bentuk Formatting String
 
-###- Latihan 3 
+![gambar1](gambar/file6.png)
 
-- Buatlah kode program agar muncul gambar seperti di bawah ini 
-Print(' { : > 16 } '. format (' * '))
-Print(' { : > 17 } '. format (' * ' * 3))
-Print(' { : > 18 } '. format (' * ' * 5))
-Print(' { : > 19 } '. format (' * ' * 7))
-Print(' { : > 20 } '. format (' * ' * 9))
+![gambar1](gambar/file6(1).png)
 
-Print(' { : > 20 } '. format (' * ' * 9))
-Print(' { : > 19 } '. format (' * ' * 7))
-Print(' { : > 18 } '. format (' * ' * 5))
-Print(' { : > 17 } '. format (' * ' * 3))
-Print(' { : > 16 } '. format (' * '))
+## Latihan 3
 
-[gambar1](gambar/gambarbelahketupatcoding.png)
+### Buatlah kode program menggunakan string formatting untuk menghasilkan output seperti gambar dibawah ini
 
-###- Hasil yang di buat dalam kode program python
+![gambar1](gambar/file7.png)
 
-![gambar1](gambar/gambarbelahketupat.png)
+ #### string =""
+ #### x = int(input("Masukkan angka :"))
+ #### a = x
+ #### while a >= 0:
+    b = a
+    while b > 0:
+        #### string = string + "   "
+        b = b - 1
+    l = 1
+    while l < (x - (a-1)):
+        string = string + " * "
+        l = l + 1
+    r = 1
+    while r < l -1:
+        string = string + " * "
+        r = r + 1
+    string = string + "\n\n"
+    a = a -1
+ #### a = 1
+ #### while a <= x:
+    b = a + 1
+    while b > 1:
+        string = string + "   "
+        b = b -1
+    l = 0
+    while l < (x - a):
+        string = string + " * "
+        l = l + 1
+    r = l
+    while r > 1:
+        string = string + " * "
+        r = r - 1
+    string = string + "\n\n"
+    a = a + 1
+print(string)
 
+#### -agar menampilkan output yang sama dengan contoh di atas, yaitu dengan menjalankan hasil daari statement yang telah dibuat lalu kita inputkan numeric 5
 
-###- Membuat kode program pada python untuk menghitung luas dan keliling lingkaran menggunakan python 
+![gambar1](gambar/file8.png)
 
-r = input(" Masukan jari jari lingkaran:")
-Pi = 3.14 
-L = pi * int (r) * int(r)
+# Praktikum 3
 
-print(" Luas Lingkaran:", 1)
-print("Keliling Lingkaran:",3)
+![gambar1](gambar/file9.png)
 
+#### -Program diatas saya mengimport modul math yang sudah di sediakan oleh python. Fungsinya supaya saya dapat menyertakan nilai phi yang sudah tersedia dalam modul tersebut dengan perintah math.pi jika kita coba mencetak fungsi tersebut maka akan menghasilkan nilai 3.14
 
+#### -Selanjutnya kita memerlukan nilai jari-jari (r) yang nantinya akan di masukan oleh pengguna pada layar. Kita menggunakan fungsi input() yang nilainya di konversi ke tipe data float 
 
-- Kemudian diminta memasukan nilai Jari-jari (r), dengan angka 20
+#### -Ketika kita sudah mendapat nilai phi dan jari-jari selanjutnya kita bisa menghitung luas dan keliling sesuai dengan rumus-nya masing-masing (lihat pada baris ke 3 & 4).
 
-[gambar1](gambar/gambarluasdanlingkaran1.png)
-[gambar1](gambar/gambarluasdanlingkaran4.png
+#### -Selanjutnya kita tampilkan hasilnya dengan fungsi print(). sintak \t merupakan karakter espace yang berfungsi untuk membuat tab. dalam kasus ini agar sejajar karakter sama dengan (=) nya
 
-- Kita deklarasikan variabel pi = 3.14
+#### -Jika dilihat hasil luas dan keliling lingkaran mempunyai angka pecahan yang cukup banyak, untuk mengambil 2 angka pecahan saja kita pakai fungsi format(),dengan penggunaan fungsi format(luas,’.2f’) akan menghasilkan 2 angka pecahan saja.
 
-![gambar1](gambar/gambarluasdanlingkaran2.png)
-
-
-- Memasukan rumus luas dan keliling lingkaran 
-L = pi * int(r) * int(r)
-K = 2 * pi * int(r)
-
-print("Luas lingkaran:", 1)
-print("keliling lingkaran:",k)
-
-![gambar1](gambar/gambarluasdanlingkaran2.png)
-![gambar1](gambar/gambarluasdanlingkaran5.png)
-
-
-###- Hasil kode program luas dan keliling lingkaran 
-
-![gambar1](gambar/py1.png)
-![gambar1](gambar/py1.png)
-
-
-###- Flowchart lingkaran
-
-
-![gambar1](gambar/gambarflowchartlingkaran.png)
-
-
-###- Praktikum 3 
-
-- Dengan ini saya cukup mengerti algoritma lingkaran yang di proses dalam python
-
-- Dapat menjelaskan langkah langkah dalam setiap langkah yang saya lakukan pada  eksekusi program 
-
-- Dapat membuat flowchart dengan baik dan benar 
-
-- Dapat mengoperasikan langsung kode program luas dan keliling lingkaran pada python
+![gambar1](gambar/file10.png)
