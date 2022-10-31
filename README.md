@@ -6,7 +6,7 @@
 
 Penggunaan end pada python ini bertujuan untuk memberikan jarak atau parameter untuk yang kita buat 
 
-![gambar1](gambar/gambar1.png)
+![gambar1](gambar/Foto1.png)
 ![gambar1](gambar/gambar5.png)
 
 
