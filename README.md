@@ -50,15 +50,15 @@
 
 ### -Setelah itu menjumlahkan dan membagi dengan ekspresikan dalam bentuk Formatting String
 
-![gambar1](gambar/file6.png)
+![gambar1](Gambar/Foto14.jpeg)
 
-![gambar1](gambar/file6(1).png)
+![gambar1](Gambar/Foto10.png)
 
 ## Latihan 3
 
 ### Buatlah kode program menggunakan string formatting untuk menghasilkan output seperti gambar dibawah ini
 
-![gambar1](gambar/file7.png)
+![gambar1](Gambar/Foto11.png)
 
  #### string =""
  #### x = int(input("Masukkan angka :"))
