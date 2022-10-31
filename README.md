@@ -7,24 +7,27 @@
 Penggunaan end pada python ini bertujuan untuk memberikan jarak atau parameter untuk yang kita buat 
 
 ![gambar1](gambar/Foto1.png)
-![gambar1](gambar/gambar5.png)
+![gambar1](gambar/Foto2.png)
 
 
 ###- Penggunaan separator 
 
 Penggunaan end pada python ini sebagai pemisah string setiap variabel yang di kasih nilai
-![gambar1](gambar/gambar2.png)
-![gambar1](gambar/gambar6.png)
+
+![gambar1](gambar/Foto3.png)
+![gambar1](gambar/foto4.png)
 
 ###-String Format
 
 Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam string daripada coba menggabungkan nya string memakai koma atau string concatenation
-[gambar1](gambar/gambar3.png)
-[gambar1](gambar/gambar7.png)
+
+[gambar1](gambar/Foto5.png)
+[gambar1](gambar/Foto6.png)
 
 ###- Contoh string concatenation
-![gambar1](gambar/gambar4.png)
-![gambar1](gambar/gambar8.png)
+
+![gambar1](gambar/Foto7.png)
+![gambar1](gambar/Foto8.png)
 
 ###- Yang di atas adalah contoh formating string 
 
@@ -44,15 +47,17 @@ Pemformatan string membuat kita mau tidak mau harus memasukan item ke dalam stri
 
 - Setelah di input masukan variabel yang telah di inputkan 
 - Lalu saya akan menggabungkan Variabel a dengan b dengan menggunakan formatting string
-![gambar1](gambar/gambar9.png)
-![gambar1](gambar/gambar1py.png)
+
+![gambar1](gambar/Foto9.png)
+![gambar1](gambar/Foto10.png)
 
 ###- Konversi nilai variabel
 
 - konversi yang saya masukan adalah nilai variabel yang masih kurang lebih sama yaitu 'String' pada 'Integer' 
 - Seusai itu kita harus menjumlahkan dan membagi dengan menggunakan seperti tadi yaitu menggunakan formatting string
-![gambar1](gambar/gambar2py.png)
-![gambar1](gambar/gambar3py.png)
+- 
+![gambar1](gambar/Foto11.png)
+![gambar1](gambar/Foto12.png)
 
 ###- Latihan 3 
 
@@ -68,9 +73,11 @@ Print(' { : > 19 } '. format (' * ' * 7))
 Print(' { : > 18 } '. format (' * ' * 5))
 Print(' { : > 17 } '. format (' * ' * 3))
 Print(' { : > 16 } '. format (' * '))
+
 [gambar1](gambar/gambarbelahketupatcoding.png)
 
 ###- Hasil yang di buat dalam kode program python
+
 ![gambar1](gambar/gambarbelahketupat.png)
 
 
@@ -86,10 +93,12 @@ print("Keliling Lingkaran:",3)
 
 
 - Kemudian diminta memasukan nilai Jari-jari (r), dengan angka 20
+
 [gambar1](gambar/gambarluasdanlingkaran1.png)
 [gambar1](gambar/gambarluasdanlingkaran4.png
 
 - Kita deklarasikan variabel pi = 3.14
+
 ![gambar1](gambar/gambarluasdanlingkaran2.png)
 
 
@@ -99,11 +108,13 @@ K = 2 * pi * int(r)
 
 print("Luas lingkaran:", 1)
 print("keliling lingkaran:",k)
+
 ![gambar1](gambar/gambarluasdanlingkaran2.png)
 ![gambar1](gambar/gambarluasdanlingkaran5.png)
 
 
 ###- Hasil kode program luas dan keliling lingkaran 
+
 ![gambar1](gambar/py1.png)
 ![gambar1](gambar/py1.png)
 
