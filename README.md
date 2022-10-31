@@ -98,7 +98,7 @@ print(string)
 
 #### -agar menampilkan output yang sama dengan contoh di atas, yaitu dengan menjalankan hasil daari statement yang telah dibuat lalu kita inputkan numeric 5
 
-![gambar1](gambar/file8.png)
+![gambar1](Gambar/Foto15.jpeg)
 
 # Praktikum 3
 
