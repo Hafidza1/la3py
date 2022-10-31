@@ -102,8 +102,7 @@ print(string)
 
 # Praktikum 3
 
-![gambar1](gambar/file9.png)
-
+![gambar1](Gambar/Foto16.jpeg)
 #### -Program diatas saya mengimport modul math yang sudah di sediakan oleh python. Fungsinya supaya saya dapat menyertakan nilai phi yang sudah tersedia dalam modul tersebut dengan perintah math.pi jika kita coba mencetak fungsi tersebut maka akan menghasilkan nilai 3.14
 
 #### -Selanjutnya kita memerlukan nilai jari-jari (r) yang nantinya akan di masukan oleh pengguna pada layar. Kita menggunakan fungsi input() yang nilainya di konversi ke tipe data float 
@@ -114,4 +113,4 @@ print(string)
 
 #### -Jika dilihat hasil luas dan keliling lingkaran mempunyai angka pecahan yang cukup banyak, untuk mengambil 2 angka pecahan saja kita pakai fungsi format(),dengan penggunaan fungsi format(luas,’.2f’) akan menghasilkan 2 angka pecahan saja.
 
-![gambar1](gambar/file10.png)
+![gambar1](Gambar/Foto17.jpeg)
